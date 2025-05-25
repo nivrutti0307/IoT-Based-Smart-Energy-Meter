@@ -57,19 +57,14 @@ With rising energy demands and distribution losses, utility companies need moder
 ---
 
 📌 Applications
-Smart billing and tariff planning
 
-Real-time energy monitoring
-
-Remote energy control for distributed assets
-
-Load profiling and usage analytics
+- Smart billing and tariff planning
+- Real-time energy monitoring
+- Remote energy control for distributed assets
+- Load profiling and usage analytics
 
 🔮 Future Scope
-Integration with home automation systems
-
-Real-time theft detection with pattern recognition
-
-Two-way power flow monitoring (for renewable integration)
-
-Prepaid metering functionality
+- Integration with home automation systems
+- Real-time theft detection with pattern recognition
+- Two-way power flow monitoring (for renewable integration)
+- Prepaid metering functionality
